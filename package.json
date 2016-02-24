@@ -1,0 +1,11 @@
+{
+  "name": "elastic-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nauval Atmaja <nauval.atmaja@gmail.com> (http://nauvalatmaja.com/)",
+  "license": "ISC"
+}
